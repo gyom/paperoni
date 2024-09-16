@@ -39,7 +39,7 @@ Make sure to set the `$GIFNOC_FILE` environment variable to the path to that fil
 To start the web app on port 8888, execute the following command:
 
 ```bash
-grizzlaxy -m paperoni.webapp --port 8888
+grizzlaxy -m paperoni.webapp -p 8888
 ```
 
 You can also add this section to the configuration file (same file as the paperoni config):
